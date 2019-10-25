@@ -1,4 +1,4 @@
 # README
 
-"Murphy is awesome!"
+"Murphy the dog is awesome!"
 -Marco
